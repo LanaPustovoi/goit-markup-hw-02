@@ -2,7 +2,7 @@
   box-sizing: border-box;
 
   display: flex;
-  flex-direction: row;
+  
   justify-content: center;
   align-items: center;
   padding: 8px 16px;
@@ -33,9 +33,9 @@ section {
 
   font-family: "Roboto";
   font-style: normal;
-  font-weight: 600;
+  font-weight: 700;
   font-size: 16px;
-  line-height: 1, 5px;
+  line-height: 1.5;
 
   display: flex;
   align-items: center;
@@ -49,7 +49,7 @@ section {
   border: 1px solid #e7e9fc;
   border-radius: 4px;
 
-  flex-direction: row;
+  
   justify-content: center;
   align-items: center;
   padding: 8px 16px;
@@ -62,9 +62,9 @@ section {
 
   font-family: "Roboto";
   font-style: normal;
-  font-weight: 600;
+  font-weight: 700;
   font-size: 16px;
-  line-height: 1, 5px;
+  line-height: 1.5;
 
   align-items: center;
   text-align: center;
@@ -76,14 +76,14 @@ section {
   box-sizing: border-box;
   border: 1px solid #e7e9fc;
   font-style: normal;
-  font-weight: 600;
+  font-weight: 700;
   font-size: 16px;
-  line-height: 1, 5px;
+  line-height: 1.5;
 
   align-items: center;
   border-radius: 4px;
 
-  flex-direction: row;
+  
   justify-content: center;
   align-items: center;
   width: 78px;
@@ -98,14 +98,14 @@ section {
   box-sizing: border-box;
   border: 1px solid #e7e9fc;
   font-style: normal;
-  font-weight: 600;
+  font-weight: 700;
   font-size: 16px;
-  line-height: 1, 5px;
+  line-height: 1.5;
 
   align-items: center;
   border-radius: 4px;
 
-  flex-direction: row;
+  
   justify-content: center;
   align-items: center;
   width: 101px;
@@ -122,14 +122,14 @@ section {
   box-sizing: border-box;
   border: 1px solid #e7e9fc;
   font-style: normal;
-  font-weight: 600;
+  font-weight: 700;
   font-size: 16px;
-  line-height: 1, 5px;
+  line-height: 1.5;
 
   align-items: center;
   border-radius: 4px;
 
-  flex-direction: row;
+  
   justify-content: center;
   align-items: center;
   width: 126px;
@@ -144,7 +144,7 @@ h3 {
   height: 24px;
   font-family: "Roboto";
   font-style: normal;
-  font-weight: 600;
+  font-weight: 700;
   font-size: 20px;
   line-height: 24px;
   letter-spacing: 0.02em;
@@ -153,7 +153,7 @@ h3 {
   flex-grow: 0;
   text-align: center;
 }
-p {
+.main-section p {
   height: 24px;
   font-family: "Roboto";
   font-style: normal;
@@ -182,7 +182,7 @@ p {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
 
   letter-spacing: 0.02em;
 
@@ -191,7 +191,7 @@ p {
 }
 .main-section li {
   background: #ffffff;
-  /* CLOUD */
+
   border: 0.5px solid #f4f4fd;
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
